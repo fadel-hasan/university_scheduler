@@ -30,7 +30,7 @@ A comprehensive university timetable scheduling system that uses genetic algorit
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/university_scheduler.git
+git clone https://github.com/fadel-hasan/university_scheduler.git
 cd university_scheduler
 ```
 
@@ -61,7 +61,7 @@ alembic upgrade head
 1. Start the application
 
 ```bash
-python main.py
+streamlit run main.py
 ```
 
 2. Open your browser and navigate to the URL shown in the terminal (typically http://localhost:8501)
