@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "e:\\university_scheduler\\university_scheduler.db"
+  }
+]
